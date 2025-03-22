@@ -47,7 +47,7 @@ Professional & calm—ideal for data scientists, engineers, or corporate roles.
 ### 💗 Template 5: Pink Theme  
 Vibrant and fresh—perfect for designers, students, or standout personal brands.
 <br><br>
-<img src="https://github.com/user-attachments/assets/c788a81d-1e9b-40c0-9623-cfd213380cc9" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
+<img src="https://github.com/user-attachments/assets/d404f5f5-cdc6-4117-8dfb-2457e0357b18" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
 <img src="https://github.com/user-attachments/assets/12d0904e-d0e6-483c-9c1c-22a4474d2718" alt="Template 1 - Preview 2" height="300px" style="display: inline-block; margin-right: 5%;">
 <img src="https://github.com/user-attachments/assets/89d9fceb-947f-4372-990a-5e85f9ece1fd" alt="Template 1 - Preview 3" height="300px" style="display: inline-block;">
 
@@ -80,14 +80,12 @@ Vibrant and fresh—perfect for designers, students, or standout personal brands
 
 ---
 
----
-
 ## 🛒 How to Order
 
 1. **Choose a Template** you like from above.
 2. **Contact me** via:
    - 📧 Email: kristynatasha011@gmail.com
-   - 📱 WhatsApp: [+62 878-658-3513](https://wa.me/628786583513)
+   - 📱 WhatsApp: [(+62) 878-658-3513](https://wa.me/628786583513)
    - 📸 Instagram: [@natgluons](https://www.instagram.com/natgluons/)
 3. I’ll send you a **preview with your content**.
 4. Confirm & **transfer payment**.
