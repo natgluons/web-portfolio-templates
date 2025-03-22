@@ -87,9 +87,10 @@ Vibrant and fresh—perfect for designers, students, or standout personal brands
    - 📧 Email: kristynatasha011@gmail.com
    - 📱 WhatsApp: [(+62) 878-658-3513](https://wa.me/628786583513)
    - 📸 Instagram: [@natgluons](https://www.instagram.com/natgluons/)
-3. I’ll send you a **preview with your content**.
-4. Confirm & **transfer payment**.
-5. You’ll receive your final site (code or deployment link) **within 1 day**.
+3. Send your CV/portfolio/requirement that you want me to change into a web app.
+4. I’ll send you a **preview with your content**.
+5. Confirm & **transfer payment**.
+6. You’ll receive your final site (code or deployment link) **within 1 day**.
 
 ### 📦 Optional Add-ons
 - Domain setup available for 1–5 year registration (you pay domain fee).
