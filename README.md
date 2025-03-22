@@ -6,19 +6,6 @@ These templates are perfect for tech professionals, freelancers, students, or jo
 
 **⚠️ Source code not included here. This is a visual showcase only.**
 
----
-
-## 💼 Pricing
-
-| Package Type         | Description                                                                 | Price (USD) |
-|----------------------|-----------------------------------------------------------------------------|-------------|
-| **Basic**            | Premade template (you choose the design), code sent as zip                  | $7          |
-| **GitHub Deployment**| Deploy to your GitHub Pages (you provide GitHub account)                    | $8          |
-| **Cloudflare Hosting** | Deployment + custom domain setup (domain not included)                    | +$13        |
-| **Custom Design**    | Fully personalized design (custom sections, layout, colors)                 | $30–$50     |
-
----
-
 ## 🖼️ Templates
 
 ### 🔸 Template 1: Light Mode
@@ -63,6 +50,35 @@ Vibrant and fresh—perfect for designers, students, or standout personal brands
 <img src="https://github.com/user-attachments/assets/c788a81d-1e9b-40c0-9623-cfd213380cc9" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
 <img src="https://github.com/user-attachments/assets/12d0904e-d0e6-483c-9c1c-22a4474d2718" alt="Template 1 - Preview 2" height="300px" style="display: inline-block; margin-right: 5%;">
 <img src="https://github.com/user-attachments/assets/89d9fceb-947f-4372-990a-5e85f9ece1fd" alt="Template 1 - Preview 3" height="300px" style="display: inline-block;">
+
+---
+
+## 💼 Pricing
+
+| **Package**         | **Features**                                                                                             | **Price (USD)**     | **Notes**                                                                                   |
+|---------------------|----------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------|
+| **Basic**           | Pre-made template (choose design) + downloadable code                                                    | **$7**               | For clients who want to self-deploy                                                         |
+| **Standard**        | Pre-made template + deployment to GitHub Pages                                                           | **$8**               | Requires client to invite me as collaborator or accept repo transfer                       |
+| **Premium**         | Pre-made template + deployment to Cloudflare Pages + custom domain                                       | **$20 (domain NOT included)** | **I can purchase the domain for you, or you can buy it yourself. Choose 1 year or 2–5 years upfront. Renewal can be bundled into annual maintenance.** |
+| **Premium (owned)** | Pre-made template + deployment to Cloudflare Pages using client’s **existing** domain                    | **$15**              | Client must provide domain DNS access or registrar login                                   |
+| **Custom**          | Fully custom design (consultation first) + deployment (GitHub or Cloudflare)                             | **$30–50+**          | Price depends on complexity (multi-page, animations, custom sections, etc.)                |
+| **Add-on: Maintenance** | Annual content update or minor edit + domain renewal (if domain bought through me)                        | **$10/year**         | Keep portfolio fresh + optional domain renewal handling     
+
+### **Domain Pricing Guide** *(Paid separately by the client)*
+
+| **Domain Extension** | **1st Year Price (USD)** | **Renewal Price / Year** | **Notes**                                                |
+|----------------------|--------------------------|---------------------------|----------------------------------------------------------|
+| **.com**             | $10–15                   | $10–15                    | Most common and professional                             |
+| **.xyz**             | $1–3                     | $12–15                    | Cheap 1st year, higher renewal                           |
+| **.store**           | $1–3                     | $30–40                    | Business-friendly, expensive renewal                     |
+| **.id**              | Rp150K–300K              | Same                      | Local domain for Indonesian clients                      |
+| **.net**             | $10–15                   | $10–15                    | Reliable alternative to .com                             |
+
+> **Options:**  
+✅ I buy and manage the domain for you. You choose to register for **1, 2, or 5 years upfront**.  
+✅ After 1 year, you can either renew it yourself or continue renewal through me as part of the **$10/year maintenance package**.
+
+---
 
 ---
 
