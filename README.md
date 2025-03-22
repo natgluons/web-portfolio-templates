@@ -17,7 +17,7 @@ Clean and modern—great for frontend developers, creatives, or UX designers.
 
 ---
 
-### 🔹 Template 1: Dark Mode
+### 🔹 Template 2: Dark Mode
 Elegant & sleek—ideal for backend developers, cybersecurity, or minimalist style lovers.
 <br><br>
 <img src="https://github.com/user-attachments/assets/86d1af63-9e0c-4d30-961a-41c6d47263d8" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
