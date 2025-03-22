@@ -47,7 +47,7 @@ Professional & calm—ideal for data scientists, engineers, or corporate roles.
 ### 💗 Template 5: Pink Theme  
 Vibrant and fresh—perfect for designers, students, or standout personal brands.
 <br><br>
-<img src="https://github.com/user-attachments/assets/d404f5f5-cdc6-4117-8dfb-2457e0357b18" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
+<img src="https://github.com/user-attachments/assets/0be3028a-9463-4685-98c0-81e30b8552cf" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
 <img src="https://github.com/user-attachments/assets/12d0904e-d0e6-483c-9c1c-22a4474d2718" alt="Template 1 - Preview 2" height="300px" style="display: inline-block; margin-right: 5%;">
 <img src="https://github.com/user-attachments/assets/89d9fceb-947f-4372-990a-5e85f9ece1fd" alt="Template 1 - Preview 3" height="300px" style="display: inline-block;">
 
