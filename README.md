@@ -8,7 +8,7 @@ These templates are perfect for tech professionals, freelancers, students, or jo
 
 ## 🖼️ Templates
 
-### 🔸 Template 1: Light Mode
+### 🔆 Template 1: Light Mode
 Clean and modern—great for frontend developers, creatives, or UX designers.
 <br><br>
 <img src="https://github.com/user-attachments/assets/7c0eb53a-2d8f-429b-97b3-0a9500640820" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
@@ -17,7 +17,7 @@ Clean and modern—great for frontend developers, creatives, or UX designers.
 
 ---
 
-### 🔹 Template 2: Dark Mode
+### 🌑 Template 2: Dark Mode
 Elegant & sleek—ideal for backend developers, cybersecurity, or minimalist style lovers.
 <br><br>
 <img src="https://github.com/user-attachments/assets/86d1af63-9e0c-4d30-961a-41c6d47263d8" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
@@ -26,7 +26,7 @@ Elegant & sleek—ideal for backend developers, cybersecurity, or minimalist sty
 
 ---
 
-### 🟢 Template 3: Green Theme
+### 🟢 Template 3: Fresh Green Theme
 Eco-friendly vibe—suitable for sustainability projects or green tech portfolios.
 <br><br>
 <img src="https://github.com/user-attachments/assets/aaa73c4f-6006-4918-be0e-c82079ccd471" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
@@ -35,7 +35,7 @@ Eco-friendly vibe—suitable for sustainability projects or green tech portfolio
 
 ---
 
-### 🔵 Template 4: Blue Theme  
+### 🔵 Template 4: Elegant Blue Theme  
 Professional & calm—ideal for data scientists, engineers, or corporate roles.
 <br><br>
 <img src="https://github.com/user-attachments/assets/9dfbc276-6290-428b-b347-48495e1134d8" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
@@ -44,7 +44,7 @@ Professional & calm—ideal for data scientists, engineers, or corporate roles.
 
 ---
 
-### 💗 Template 5: Pink Theme  
+### 💗 Template 5: Playful Pink Theme  
 Vibrant and fresh—perfect for designers, students, or standout personal brands.
 <br><br>
 <img src="https://github.com/user-attachments/assets/0be3028a-9463-4685-98c0-81e30b8552cf" alt="Template 1 - Preview 1" height="300px" style="display: inline-block; margin-right: 5%;">
